@@ -1,3 +1,4 @@
+
 const mockData = {
     "GME": {
         "meta": {
